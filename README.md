@@ -3,22 +3,6 @@
 <p align="center"><img width="635" height="270" src="https://github.com/DerekPascarella/EMITVols.1-3EnglishPatchFMTowns/blob/main/images/cover_vol1_vol2_vol3.png?raw=true"></p>
 Patches to force English mode by default in all three volumes of "EMIT" on the FM Towns, as well as to translate original Japanese text in each volume's side game.
 <br><br>
-"EMIT" is an educational sound novel adventure, developed and published by Koei. It was created to help Japanese players study English, and was originally released in 1994 across platforms like FM Towns, Macintosh, Windows, PC-9801, SEGA Saturn, Super Famicom, 3DO, and PlayStation.
-<br><br>
-It is divided into three volumes, all written by Jiro Akagawa.
-<br><br>
-• EMIT Vol. 1: Lost in Time
-<br>
-• EMIT Vol. 2: Desperate Journey
-<br>
-• EMIT Vol. 3: Bid Myself Farewell
-<br><br>
-The plot revolves around a world where people age backwards, and is both a storyline-driven visual novel and a language learning tool, though the latter of these characteristics is irrelevant for purposes of this patch.
-<br><br>
-The games blend a time travel mystery with real voice acting and interactive choices. Volume 1 starts the chain of strange events and pulls you into a world where past and present overlap. Volume 2 raises the stakes as you chase answers across places and times, meeting new allies and threats. Volume 3 brings the threads together in a fast paced finale that tests what you have learned and the bonds you have formed.
-<br><br>
-Each of the three volumes also includes its own unique side game (labeled "English Game" in the main menu), offering a fun pick-up-and-play experience to players outside of the game's story mode.
-<br><br>
 The latest version of this patch is <a href="xxxx">0.9</a>.
 
 <h2>Table of Contents</h2>
@@ -27,10 +11,11 @@ The latest version of this patch is <a href="xxxx">0.9</a>.
 2. [Credits](#credits)
 3. [Release Changelog](#release-changelog)
 4. [What's Changed](#whats-changed)
-5. [How to Play](#how-to-play)
-6. [Play Tips](#play-tips)
-7. [Current Limitations](#current-limitations)
-8. [Bug Reports](#bug-reports)
+5. [About the Game](#about-the-game)
+6. [How to Play](#how-to-play)
+7. [Play Tips](#play-tips)
+8. [Current Limitations](#current-limitations)
+9. [Bug Reports](#bug-reports)
 
 <h2>Patching Instructions</h2>
 
@@ -81,6 +66,123 @@ To apply the patches, follow the steps below.
   <li>English language mode is enabled by default for menus and story mode.</li>
   <li>Japanese text in each volume's side game has been translated to English.</li>
 </ul>
+
+<h2>About the Game</h2>
+
+<img align="right" width="300" src="https://github.com/DerekPascarella/EMITVols.1-3EnglishPatchFMTowns/blob/main/images/08.png?raw=true">"EMIT" is an educational sound novel adventure, developed and published by Koei. It was created to help Japanese players study English, and was originally released in 1994 across platforms like FM Towns, Macintosh, Windows, PC-9801, SEGA Saturn, Super Famicom, 3DO, and PlayStation.
+<br><br>
+It is divided into three volumes, all written by Jiro Akagawa.
+<br><br>
+• EMIT Vol. 1: Lost in Time
+<br>
+• EMIT Vol. 2: Desperate Journey
+<br>
+• EMIT Vol. 3: Bid Myself Farewell
+<br><br>
+The plot revolves around a world where people age backwards, and is both a storyline-driven visual novel and a language learning tool, though the latter of these characteristics is irrelevant for purposes of this patch.
+<br><br>
+The games blend a time travel mystery with real voice acting and interactive choices. Volume 1 starts the chain of strange events and pulls you into a world where past and present overlap. Volume 2 raises the stakes as you chase answers across places and times, meeting new allies and threats. Volume 3 brings the threads together in a fast paced finale that tests what you have learned and the bonds you have formed.
+<br><br>
+Each of the three volumes also includes its own unique side game (labeled "English Game" in the main menu), offering a fun pick-up-and-play experience to players outside of the game's story mode.
+<br><br>
+<table>
+  <tr>
+    <td>
+      <b>Original Title</b>
+    </td>
+    <td>EMIT Vol. 1: Toki no Maigo (エミット Vol.1 ～時の迷子～)</td>
+  </tr>
+  <tr>
+    <td>
+      <b>Localized Title</b>
+    </td>
+    <td>EMIT Vol. 1: Lost in Time</td>
+  </tr>
+  <tr>
+    <td>
+      <b>Developer and Publisher</b>
+    </td>
+    <td>Koei</td>
+  </tr>
+  <tr>
+    <td>
+      <b>Release Date</b>
+    </td>
+    <td>March 25, 1994</td>
+  </tr>
+  <tr>
+    <td>
+      <b>Compatibility</b>
+    </td>
+    <td>FM Towns <br>FM Towns Marty</td>
+  </tr>
+</table>
+<br>
+<table>
+  <tr>
+    <td>
+      <b>Original Title</b>
+    </td>
+    <td>EMIT Vol. 2: Inochigake no Tabi (エミット Vol.2 ～命がけの旅～)</td>
+  </tr>
+  <tr>
+    <td>
+      <b>Localized Title</b>
+    </td>
+    <td>EMIT Vol. 2: Desperate Journey</td>
+  </tr>
+  <tr>
+    <td>
+      <b>Developer and Publisher</b>
+    </td>
+    <td>Koei</td>
+  </tr>
+  <tr>
+    <td>
+      <b>Release Date</b>
+    </td>
+    <td>July 01, 1994</td>
+  </tr>
+  <tr>
+    <td>
+      <b>Compatibility</b>
+    </td>
+    <td>FM Towns <br>FM Towns Marty</td>
+  </tr>
+</table>
+<br>
+<table>
+  <tr>
+    <td>
+      <b>Original Title</b>
+    </td>
+    <td>EMIT Vol. 3: Watashi ni Sayonara o (エミット Vol.3 ～私にさよならを～)</td>
+  </tr>
+  <tr>
+    <td>
+      <b>Localized Title</b>
+    </td>
+    <td>EMIT Vol. 3: Bid Myself Farewell</td>
+  </tr>
+  <tr>
+    <td>
+      <b>Developer and Publisher</b>
+    </td>
+    <td>Koei</td>
+  </tr>
+  <tr>
+    <td>
+      <b>Release Date</b>
+    </td>
+    <td>September 18, 1994</td>
+  </tr>
+  <tr>
+    <td>
+      <b>Compatibility</b>
+    </td>
+    <td>FM Towns <br>FM Towns Marty</td>
+  </tr>
+</table>
 
 <h2>How to Play</h2>
 
