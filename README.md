@@ -1,6 +1,8 @@
 <h1>EMIT: Vols. 1 - 3</h1>
 
 <p align="center"><img width="635" height="270" src="https://github.com/DerekPascarella/EMITVols.1-3EnglishPatchFMTowns/blob/main/images/cover_vol1_vol2_vol3.png?raw=true"></p>
+Patches to force English mode by default in all three volumes of "EMIT" on the FM Towns, as well as to translate original Japanese text in each volume's side game.
+<br><br>
 "EMIT" is an educational sound novel adventure, developed and published by Koei. It was created to help Japanese players study English, and was originally released in 1994 across platforms like FM Towns, Macintosh, Windows, PC-9801, SEGA Saturn, Super Famicom, 3DO, and PlayStation.
 <br><br>
 It is divided into three volumes, all written by Jiro Akagawa.
