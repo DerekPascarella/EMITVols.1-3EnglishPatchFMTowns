@@ -68,7 +68,7 @@ To apply the patches, follow the steps below.
 <h2>What's Changed</h2>
 
 <ul>
-  <li>English language mode is enabled by default.</li>
+  <li>English language mode is enabled by default for menus and story mode.</li>
   <li>Japanese text in each volume's side game has been translated to English.</li>
 </ul>
 
