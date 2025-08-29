@@ -3,7 +3,14 @@
 <p align="center"><img width="635" height="270" src="https://github.com/DerekPascarella/EMITVols.1-3EnglishPatchFMTowns/blob/main/images/cover_vol1_vol2_vol3.png?raw=true"></p>
 "EMIT" is an educational sound novel adventure, developed and published by Koei. It was created to help Japanese players study English, and was originally released in 1994 across platforms like FM Towns, Macintosh, Windows, PC-9801, SEGA Saturn, Super Famicom, 3DO, and PlayStation.
 <br><br>
-It is divided into three volumes, all written by Jiro Akagawa. The plot revolves around a world where people age backwards, and is both a storyline-driven visual novel and a language learning tool, though the latter of these characteristics is irrelevant for purposes of this patch.
+It is divided into three volumes, all written by Jiro Akagawa.
+<br><br>
+<ul>
+  <li>EMIT Vol. 1: Lost in Time</li>
+  <li>EMIT Vol. 2: Desperate Journey</li>
+  <li>EMIT Vol. 3: Bid Myself Farewell</li>
+</ul>
+The plot revolves around a world where people age backwards, and is both a storyline-driven visual novel and a language learning tool, though the latter of these characteristics is irrelevant for purposes of this patch.
 <br><br>
 The games blend a time travel mystery with real voice acting and interactive choices. Volume 1 starts the chain of strange events and pulls you into a world where past and present overlap. Volume 2 raises the stakes as you chase answers across places and times, meeting new allies and threats. Volume 3 brings the threads together in a fast paced finale that tests what you have learned and the bonds you have formed.
 <br><br>
