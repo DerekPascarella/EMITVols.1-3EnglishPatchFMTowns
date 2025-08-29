@@ -102,11 +102,20 @@ To apply the patches, follow the steps below.
 
 <h2>Play Tips</h2>
 
-stuff goes here
+<img align="right" width="300" src="https://github.com/DerekPascarella/EMITVols.1-3EnglishPatchFMTowns/blob/main/images/play_tips.png?raw=true">In order for players to enjoy the best experience possible with "EMIT", it's suggested that they use one or both of the settings described below.
+<br><br>
+<ul>
+  <li>
+    <b>Top button:</b> Press twice until its border appears as it does in the image shown here to put story mode on auto-pilot, playing out like a film. Otherwise, the back/forward buttons on the left of the screen can be used to manually progress through scenes.
+  </li>
+  <li>
+    <b>Bottom button:</b> Press twice until its border appears as it does in the image shown here to keep English dialogue text on screen as the voice acted scenes progress.
+  </li>
+</ul>
 
 <h2>Current Limitations</h2>
 
-stuff goes here
+Due to the use of compressed graphics in "EMIT", the opening sequences, as well as the end credits, for all three volumes contain Japanese text that is presently untranslated.
 
 <h2>Bug Reports and Typos</h2>
 
