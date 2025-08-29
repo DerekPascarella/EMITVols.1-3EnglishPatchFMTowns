@@ -74,7 +74,7 @@ To apply the patches, follow the steps below.
 
 <h2>How to Play</h2>
 
-<img align="right" width="300" src="https://github.com/DerekPascarella/EMITVols.1-3EnglishPatchFMTowns/blob/main/images/01.png?raw=true">
+<img align="right" width="300" src="https://github.com/DerekPascarella/EMITVols.1-3EnglishPatchFMTowns/blob/main/images/18.png?raw=true">
 <ul>
   <li>
     <b>CD-R</b>
