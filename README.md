@@ -37,7 +37,7 @@ This patch release includes a custom patch-applying kit for all three volumes of
 Note that the User Disks bundled with the patch kit <u>must be used</u> in conjunction with the patched disc images in order to successfully play this patch. They can be found in the <tt>floppy_image</tt> folder.
 <br><br>
 To apply the patches, follow the steps below.
-<br><br>
+<br>
 <ol type="1">
   <li>Extract the <a href="xxxx">latest release package ZIP</a> to any folder of your choosing. </li>
   <li>Inside each of the separate volume folders (e.g., <tt>vol_1</tt>), place the entire Redump disc image in the <tt>redump_original</tt> folder (as per the screenshot below). </li>
