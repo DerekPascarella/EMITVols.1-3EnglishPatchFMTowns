@@ -81,32 +81,26 @@ To apply the patches, follow the steps below.
     <br>
     The English-patched version of this game can be burned to CD-R and played on FM Towns Marty or any FM Towns computer.
     <br><br>
-    Saving game progress requires either a working floppy disk drive or an FDD emulator (such as the <a href="https://www.gotekemulator.com/">GoTek</a> or <a href="https://caiusarcade.blogspot.com/2021/05/the-thing-fm-towns-marty-fdd-emulator.html">The Thing</a>). Like many FM Towns titles, this game needs a specially formatted save disk. If you are using a floppy drive emulator, you can download and use the pre-made save disk image provided below. Alternatively, a save disk can be created from the title screen menu by inserting a blank disk, either physically or through the emulator.
-    <br><br>
-    ⯈ <a href="https://github.com/DerekPascarella/GamblerQueensCup-EnglishPatchFMTowns/raw/refs/heads/main/fdd_images/Gambler%20-%20Queen's%20Cup%20(Save%20Disk).hfe">Gambler - Queen's Cup (Save Disk).hfe</a>
-    <br><br>
+    Game progress can be saved directly to the bundled User Disks, requiring either a working floppy disk drive or an FDD emulator (such as the <a href="https://www.gotekemulator.com/">GoTek</a> or <a href="https://caiusarcade.blogspot.com/2021/05/the-thing-fm-towns-marty-fdd-emulator.html">The Thing</a>).
   </li>
   <li>
     <b>ODE (Optical Drive Emulator)</b>
     <br>
     The English-patched version of this game (in CCD/IMG/SUB format) is compatible with both the <a href="https://gdemu.wordpress.com/details/docbrown-details/">DocBrown</a> and <a href="https://gdemu.wordpress.com/details/wizard-details/">Wizard</a> ODEs for the FM Towns Marty and the FM Towns, respectively.
     <br><br>
-    Saving game progress requires either a working floppy disk drive or an FDD emulator (such as the <a href="https://www.gotekemulator.com/">GoTek</a> or <a href="https://caiusarcade.blogspot.com/2021/05/the-thing-fm-towns-marty-fdd-emulator.html">The Thing</a>). Like many FM Towns titles, this game needs a specially formatted save disk. If you are using a floppy drive emulator, you can download and use the pre-made save disk image provided below. Alternatively, a save disk can be created from the title screen menu by inserting a blank disk, either physically or through the emulator.
-    <br><br>
-    ⯈ <a href="https://github.com/DerekPascarella/GamblerQueensCup-EnglishPatchFMTowns/raw/refs/heads/main/fdd_images/Gambler%20-%20Queen's%20Cup%20(Save%20Disk).hfe">Gambler - Queen's Cup (Save Disk).hfe</a>
-    <br><br>
+    Game progress can be saved directly to the bundled User Disks, requiring either a working floppy disk drive or an FDD emulator (such as the <a href="https://www.gotekemulator.com/">GoTek</a> or <a href="https://caiusarcade.blogspot.com/2021/05/the-thing-fm-towns-marty-fdd-emulator.html">The Thing</a>).
   </li>
   <li>
     <b>Emulator</b>
     <br>
-    The English-patched version of this game is compatible with the <a href="https://github.com/captainys/TOWNSEMU">Tsugaru</a> emulator, and likely <a href="http://townsemu.world.coocan.jp/download.html">Unz</a> as well. This game, like many on the FM Towns, requires a specially formatted save disk for game progress. For Tsugaru users, a pre-made save disk image can be downloaded below. Alternatively, a save disk can be created from the title screen menu while a blank disk image is mounted via the emulator.
+    The English-patched version of this game is compatible with the <a href="https://github.com/captainys/TOWNSEMU">Tsugaru</a> emulator, and likely <a href="http://townsemu.world.coocan.jp/download.html">Unz</a> as well.
     <br><br>
-    ⯈ <a href="https://github.com/DerekPascarella/GamblerQueensCup-EnglishPatchFMTowns/raw/refs/heads/main/fdd_images/Gambler%20-%20Queen's%20Cup%20(Save%20Disk).d88">Gambler - Queen's Cup (Save Disk).d88</a>
+    Game progress can be saved directly to the bundled User Disks, requiring either a working floppy disk drive or an FDD emulator (such as the <a href="https://www.gotekemulator.com/">GoTek</a> or <a href="https://caiusarcade.blogspot.com/2021/05/the-thing-fm-towns-marty-fdd-emulator.html">The Thing</a>).
 </ul>
 
 <h2>Play Tips</h2>
 
-<img align="right" width="300" src="https://github.com/DerekPascarella/EMITVols.1-3EnglishPatchFMTowns/blob/main/images/18.png?raw=true">stuff goes here
+stuff goes here
 
 <h2>Current Limitations</h2>
 
