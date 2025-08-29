@@ -28,7 +28,7 @@ The latest version of this patch is <a href="xxxx">0.9</a>.
 5. [How to Play](#how-to-play)
 6. [Play Tips](#play-tips)
 7. [Current Limitations](#current-limitations)
-8. [Bug Reports and Typos](#bug-reports-and-typos)
+8. [Bug Reports](#bug-reports)
 
 <h2>Patching Instructions</h2>
 
@@ -126,6 +126,6 @@ To apply the patches, follow the steps below.
 
 Due to the use of compressed graphics in "EMIT", the opening sequences, as well as the end credits, for all three volumes contain Japanese text that is presently untranslated.
 
-<h2>Bug Reports and Typos</h2>
+<h2>Bug Reports</h2>
 
-Should a user encounter what they believe to be a bug or typo (spelling/grammar error) during their playthrough of any volume of "EMIT", it's asked that they please share their findings by <a href="https://github.com/DerekPascarella/EMITVols.1-3EnglishPatchFMTowns/issues/new">submitting a new issue</a>.
+Should a user encounter what they believe to be a bug during their playthrough of any volume of "EMIT", it's asked that they please share their findings by <a href="https://github.com/DerekPascarella/EMITVols.1-3EnglishPatchFMTowns/issues/new">submitting a new issue</a>.
