@@ -34,7 +34,7 @@ The latest version of this patch is <a href="xxxx">0.9</a>.
 
 This patch release includes a custom patch-applying kit for all three volumes of "EMIT". It specifically targets the Redump rips (<a href="http://redump.org/disc/48317/">Vol. 1</a>, <a href="http://redump.org/disc/48318/">Vol. 2</a>, <a href="http://redump.org/disc/67774/">Vol. 3</a>), and no other version of the original source disc image can be used.
 <br><br>
-Note that the User Disks bundled with the patch kit <u>must be used</u> in conjunction with the patched disc images in order to successfully play this patch. They can be found in the <tt>floppy_image</tt> folder.
+Note that the User Disks bundled with the patch kit <b>must be used</b> in conjunction with the patched disc images in order to successfully play this patch. They can be found in the <tt>floppy_image</tt> folder.
 <br><br>
 To apply the patches, follow the steps below.
 <br>
