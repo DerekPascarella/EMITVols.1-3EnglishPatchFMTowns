@@ -1,7 +1,7 @@
 <h1>EMIT: Vols. 1 - 3</h1>
 
 <p align="center"><img width="635" height="270" src="https://github.com/DerekPascarella/EMITVols.1-3EnglishPatchFMTowns/blob/main/images/cover_vol1_vol2_vol3.png?raw=true"></p>
-Patches to force English mode by default in all three volumes of "EMIT" on the FM Towns, as well as to translate original Japanese text in each volume's side game.
+Patches to force English mode by default in all three volumes of "EMIT" on the FM Towns, as well as to translate previously untranslated original Japanese text in each volume's side game.
 <br><br>
 The latest version of this patch is <a href="xxxx">0.9</a>.
 
