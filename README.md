@@ -85,6 +85,8 @@ The plot revolves around a world where people age backwards, and is both a story
 <br><br>
 Each of the three volumes also includes its own unique side game (labeled "English Game" in the main menu), offering a fun pick-up-and-play experience to players outside of the game's story mode.
 <br><br>
+It's important to note that while "EMIT" was originally designed as an English learning tool for Japanese speakers, with this patch it can now be enjoyed simply as a set of three standalone games, each featuring beautiful artwork, full voice acting, and an engaging story.
+<br><br>
 <table>
   <tr>
     <td>
