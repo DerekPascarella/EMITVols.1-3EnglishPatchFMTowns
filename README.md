@@ -97,7 +97,7 @@ To apply the patches, follow the steps below.
     <br>
     The English-patched version of this game is compatible with the <a href="https://github.com/captainys/TOWNSEMU">Tsugaru</a> emulator, and likely <a href="http://townsemu.world.coocan.jp/download.html">Unz</a> as well.
     <br><br>
-    Game progress can be saved directly to the bundled User Disks, requiring either a working floppy disk drive or an FDD emulator (such as the <a href="https://www.gotekemulator.com/">GoTek</a> or <a href="https://caiusarcade.blogspot.com/2021/05/the-thing-fm-towns-marty-fdd-emulator.html">The Thing</a>).
+    Game progress can be saved directly to the bundled User Disks.
 </ul>
 
 <h2>Play Tips</h2>
