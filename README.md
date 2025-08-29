@@ -82,6 +82,7 @@ To apply the patches, follow the steps below.
     The English-patched version of this game can be burned to CD-R and played on FM Towns Marty or any FM Towns computer.
     <br><br>
     Game progress can be saved directly to the bundled User Disks, requiring either a working floppy disk drive or an FDD emulator (such as the <a href="https://www.gotekemulator.com/">GoTek</a> or <a href="https://caiusarcade.blogspot.com/2021/05/the-thing-fm-towns-marty-fdd-emulator.html">The Thing</a>).
+    <br><br>
   </li>
   <li>
     <b>ODE (Optical Drive Emulator)</b>
@@ -89,6 +90,7 @@ To apply the patches, follow the steps below.
     The English-patched version of this game (in CCD/IMG/SUB format) is compatible with both the <a href="https://gdemu.wordpress.com/details/docbrown-details/">DocBrown</a> and <a href="https://gdemu.wordpress.com/details/wizard-details/">Wizard</a> ODEs for the FM Towns Marty and the FM Towns, respectively.
     <br><br>
     Game progress can be saved directly to the bundled User Disks, requiring either a working floppy disk drive or an FDD emulator (such as the <a href="https://www.gotekemulator.com/">GoTek</a> or <a href="https://caiusarcade.blogspot.com/2021/05/the-thing-fm-towns-marty-fdd-emulator.html">The Thing</a>).
+    <br><br>
   </li>
   <li>
     <b>Emulator</b>
