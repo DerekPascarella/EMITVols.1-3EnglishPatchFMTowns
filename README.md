@@ -65,6 +65,7 @@ To apply the patches, follow the steps below.
 <ul>
   <li>English language mode is enabled by default for menus and story mode.</li>
   <li>Japanese text in each volume's side game has been translated to English.</li>
+  <li>Due to the patch breaking the original Japanese font, the Japanese language mode has been entirely disabled.</li>
 </ul>
 
 <h2>About the Game</h2>
