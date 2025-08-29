@@ -10,6 +10,7 @@ It is divided into three volumes, all written by Jiro Akagawa.
   <li>EMIT Vol. 2: Desperate Journey</li>
   <li>EMIT Vol. 3: Bid Myself Farewell</li>
 </ul>
+<br>
 The plot revolves around a world where people age backwards, and is both a storyline-driven visual novel and a language learning tool, though the latter of these characteristics is irrelevant for purposes of this patch.
 <br><br>
 The games blend a time travel mystery with real voice acting and interactive choices. Volume 1 starts the chain of strange events and pulls you into a world where past and present overlap. Volume 2 raises the stakes as you chase answers across places and times, meeting new allies and threats. Volume 3 brings the threads together in a fast paced finale that tests what you have learned and the bonds you have formed.
