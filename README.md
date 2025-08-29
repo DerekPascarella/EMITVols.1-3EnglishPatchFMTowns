@@ -103,7 +103,7 @@ To apply the patches, follow the steps below.
 <h2>Play Tips</h2>
 
 <img align="right" width="300" src="https://github.com/DerekPascarella/EMITVols.1-3EnglishPatchFMTowns/blob/main/images/play_tips.png?raw=true">In order for players to enjoy the best experience possible with "EMIT", it's suggested that they use one or both of the settings described below.
-<br><br>
+<br>
 <ul>
   <li>
     <b>Top button:</b> Press twice until its border appears as it does in the image shown here to put story mode on auto-pilot, playing out like a film. Otherwise, the back/forward buttons on the left of the screen can be used to manually progress through scenes.
