@@ -33,7 +33,7 @@ To apply the patches, follow the steps below.
 <ol type="1">
   <li>Extract the <a href="xxxx">latest release package ZIP</a> to any folder of your choosing. </li>
   <li>Inside each of the separate volume folders (e.g., <tt>vol_1</tt>), place the entire Redump disc image in the <tt>redump_original</tt> folder (as per the screenshot below). </li>
-  <img src="xxxxxx">
+  <img src="https://github.com/DerekPascarella/EMITVols.1-3EnglishPatchFMTowns/blob/main/images/apply_patch.png?raw=true">
   <li>Launch the <tt>apply_patch.bat</tt> script and watch for status messages as it applies the patch. </li>
   <li>Upon successful completion, patched disc images will reside in the <tt>patched_disc_image_cue_bin</tt> and <tt>patched_disc_image_ccd_img_sub</tt> folders. These disc images are acceptable for burning to CD-R, using with an ODE, or using with an emulator. </li>
 </ol>
