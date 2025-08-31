@@ -221,11 +221,15 @@ It's important to note that while "EMIT" was originally designed as an English l
 <br>
 <ul>
   <li>
-    <b>Top button:</b> Press twice until its border appears as it does in the image shown here to put story mode on auto-pilot, playing out like a film. Otherwise, the back/forward buttons on the left of the screen can be used to manually progress through scenes.
+    <b>Top Button</b>
+    <br>
+    Press twice until its border appears as it does in the image shown here to put story mode on auto-pilot, playing out like a film. Otherwise, the back/forward buttons on the left of the screen can be used to manually progress through scenes.
     <br><br>
   </li>
   <li>
-    <b>Bottom button:</b> Press twice until its border appears as it does in the image shown here to keep English dialogue text on screen as the voice acted scenes progress.
+    <b>Bottom Button</b>
+    <br>
+    Press twice until its border appears as it does in the image shown here to keep English dialogue text on screen as the voice acted scenes progress.
   </li>
 </ul>
 
