@@ -3,7 +3,7 @@
 <p align="center"><img width="635" height="270" src="https://github.com/DerekPascarella/EMITVols.1-3EnglishPatchFMTowns/blob/main/images/cover_vol1_vol2_vol3.png?raw=true"></p>
 Patches to force English mode by default in all three volumes of "EMIT" on the FM Towns, as well as to translate previously untranslated original Japanese text in each volume's side game.
 <br><br>
-The latest version of this patch is <a href="xxxx">0.9</a>.
+The latest version of this patch is <a href="https://github.com/DerekPascarella/EMITVols.1-3EnglishPatchFMTowns/releases/download/0.9/EMIT.-.Vols.1.-.3.English.v0.9.zip">0.9</a>.
 
 <h2>Table of Contents</h2>
 
@@ -26,7 +26,7 @@ Note that the User Disks bundled with the patch kit <b>must be used</b> in conju
 To apply the patches, follow the steps below.
 <br>
 <ol type="1">
-  <li>Extract the <a href="xxxx">latest release package ZIP</a> to any folder of your choosing. </li>
+  <li>Extract the <a href="https://github.com/DerekPascarella/EMITVols.1-3EnglishPatchFMTowns/releases/download/0.9/EMIT.-.Vols.1.-.3.English.v0.9.zip">latest release package ZIP</a> to any folder of your choosing. </li>
   <li>Inside each of the separate volume folders (e.g., <tt>vol_1</tt>), place the entire Redump disc image in the <tt>redump_original</tt> folder (as per the screenshot below). </li>
   <img src="https://github.com/DerekPascarella/EMITVols.1-3EnglishPatchFMTowns/blob/main/images/apply_patch.png?raw=true">
   <li>Launch the <tt>apply_patch.bat</tt> script and watch for status messages as it applies the patch. </li>
@@ -54,7 +54,7 @@ To apply the patches, follow the steps below.
 <h2>Release Changelog</h2>
 
 <ul>
-  <li>Version 0.9 (2025-XX-XX)</li>
+  <li>Version 0.9 (2025-09-01)</li>
   <ul>
     <li>Initial release.</li>
   </ul>
