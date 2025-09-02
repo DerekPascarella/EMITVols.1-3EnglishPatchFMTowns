@@ -72,7 +72,7 @@ To apply the patches, follow the steps below.
 
 <img align="right" width="300" src="https://github.com/DerekPascarella/EMITVols.1-3EnglishPatchFMTowns/blob/main/images/08.png?raw=true">"EMIT" is an educational visual-sound novel adventure, developed and published by Koei. It was created to help Japanese players study English, and was originally released in 1994 across platforms like FM Towns, Macintosh, Windows, PC-9801, SEGA Saturn, Super Famicom, 3DO, and PlayStation.
 <br><br>
-It is divided into three volumes, all written by Jiro Akagawa.
+It is divided into three volumes, all written by Jiro Akagawa, with artwork by Mutsumi Inomata.
 <br><br>
 • EMIT Vol. 1: Lost in Time
 <br>
