@@ -82,7 +82,7 @@ It is divided into three volumes, all written by Jiro Akagawa.
 <br><br>
 The plot revolves around a world where people age backwards, and is both a storyline-driven visual novel and a language learning tool, though the latter of these characteristics is irrelevant for purposes of this patch.
 <br><br>
-<img align="left" width="300" src="https://github.com/DerekPascarella/EMITVols.1-3EnglishPatchFMTowns/blob/main/images/04.png?raw=true">The games blend a time travel mystery with real voice acting and interactive choices. Volume 1 starts the chain of strange events and pulls you into a world where past and present overlap. Volume 2 raises the stakes as you chase answers across places and times, meeting new allies and threats. Volume 3 brings the threads together in a fast paced finale that tests what you have learned and the bonds you have formed.
+<img align="left" width="300" src="https://github.com/DerekPascarella/EMITVols.1-3EnglishPatchFMTowns/blob/main/images/04.png?raw=true">The games blend a time travel mystery with real voice acting. Volume 1 starts the chain of strange events and pulls you into a world where past and present overlap. Volume 2 raises the stakes as you chase answers across places and times, meeting new allies and threats. Volume 3 brings the threads together in a fast paced finale that tests what you have learned and the bonds you have formed.
 <br><br>
 Each of the three volumes also includes its own unique side game (labeled "English Game" in the main menu), offering a fun pick-up-and-play experience to players outside of the game's story mode.
 <br><br>
