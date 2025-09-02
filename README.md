@@ -132,7 +132,7 @@ It's important to note that while "EMIT" was originally designed as an English l
     <td>
       <b>Localized Title</b>
     </td>
-    <td>EMIT Vol. 2: Desperate Journey</td>
+    <td>EMIT Vol. 2: A Life-and-Death Trip</td>
   </tr>
   <tr>
     <td>
