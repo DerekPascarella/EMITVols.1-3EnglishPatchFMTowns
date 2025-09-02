@@ -76,7 +76,7 @@ It is divided into three volumes, all written by Jiro Akagawa, with artwork by M
 <br><br>
 • EMIT Vol. 1: Lost in Time
 <br>
-• EMIT Vol. 2: Desperate Journey
+• EMIT Vol. 2: A Life-and-Death Trip
 <br>
 • EMIT Vol. 3: Bid Myself Farewell
 <br><br>
